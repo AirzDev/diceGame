@@ -1,0 +1,51 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #697565;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Teko', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #ECDFCC;
+}
+
+p {
+  font-size: 2rem;
+  color: #ECDFCC;
+  font-family: 'Lilita One', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #3C3D37;
+  text-align: center;
+  font-family: 'Lilita One', serif;
+
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  font-family: 'Lilita One', serif;
+  color: #ECDFCC;
+  background-color: #232931;
+}
